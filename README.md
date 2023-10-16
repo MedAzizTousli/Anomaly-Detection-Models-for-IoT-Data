@@ -5,7 +5,7 @@ This project was carried out as part of the training of engineers at Tunisia Pol
 
 <img src='https://datascience.aero/wp-content/themes/yootheme/cache/AnomalyDetectionData-1-bbb99a40.png' width="50%" eight="50%">
 
-# Approaches
+# Approaches.
 The most common approach to ensure the quality of sensors’ data, consists in automated detection of erroneous readings or anomalous behaviors of sensors. In the literature, this strategy is known as anomaly detection and can be pursued in many different ways.
 
 In order to solve an anomaly detection problem, we propose these different approaches:
