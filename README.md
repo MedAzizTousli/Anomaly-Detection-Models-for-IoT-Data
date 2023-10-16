@@ -1,4 +1,4 @@
-# Anomaly Detection Models for IoT Data
+# Anomaly Detection Models for IoT Data.
 The goal of this project is to apply anomaly detection models on IoT data in order to find acquisitions that present anomalies, i.e., mistakes in acquiring the data, or unexpected variations of the assesses. We were provided a dataset that contains weather acquisitions of different features, such as ‘rain’, ‘wind’ and ‘temperature’. 
 
 This project was carried out as part of the training of engineers at Tunisia Polytechnic School under the module "Transversal Project" in the third year.
