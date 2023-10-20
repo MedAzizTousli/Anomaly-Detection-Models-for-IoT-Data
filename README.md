@@ -19,4 +19,3 @@ In order to solve an anomaly detection problem, we propose these different appro
 - Python programming language
 - Anomaly detection basics
 - Feature engineering
-- Machine Learning
