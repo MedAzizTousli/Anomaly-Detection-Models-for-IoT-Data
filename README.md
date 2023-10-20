@@ -20,3 +20,4 @@ In order to solve an anomaly detection problem, we propose these different appro
 - Anomaly detection basics
 - Feature engineering
 - Machine Learning
+- Deep Learning
